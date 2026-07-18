@@ -4,17 +4,19 @@
 
 ## Project Overview
 
-This project analyzes customer churn using the Bank Customer Churn dataset. The objective is to identify the factors influencing customer attrition and build an interactive Tableau dashboard to visualize churn patterns. Additionally, SQL was used for data analysis and Python was used for exploratory data analysis (EDA) and machine learning-based churn prediction.
+This project analyzes customer churn using the Bank Customer Churn dataset. The objective is to identify the factors influencing customer attrition and build an interactive Tableau dashboard to visualize churn patterns. 
+
+Additionally, SQL was used for data analysis and Python was used for exploratory data analysis (EDA) and machine learning-based churn prediction.
 
 ---
 
 ## Dataset Information
 
-- Dataset: Bank Customer Churn
-- Source: Kaggle
-- Total Customers: 10,000
-- Features: 14
-- Target Variable: Exited
+- **Dataset:** Bank Customer Churn
+- **Source:** Kaggle
+- **Total Customers:** 10,000
+- **Features:** 14
+- **Target Variable:** Exited
   - 0 = Customer Retained
   - 1 = Customer Churned
 
@@ -106,4 +108,4 @@ This project demonstrates end-to-end Data Analytics using SQL, Python, and Table
 
 ## Author
 
-# Supriya N
+**Supriya N**
